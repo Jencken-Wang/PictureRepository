@@ -1,2 +1,2 @@
 # PictureRepository
-use this repository to story Markdown picture
+use this repository to store Markdown picture
